@@ -2,6 +2,9 @@
 *.wpr
 *.wpu
 
+# Java Class files
+*.class
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
